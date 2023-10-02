@@ -24,24 +24,6 @@ public class ATMApp {
 		securityQuestions();
 		char qOpt = scan.next().charAt(0);
 		tSV.setqOpt(qOpt);
-//		String sQ;
-//		switch (qOpt) {
-//		case 1: {
-//			sQ = "What is your Nick Name?";
-//		}
-//		case 2: {
-//			sQ = "What is your Pet Name?";
-//		}
-//		case 3: {
-//			sQ = "What is your Favourite Place?";
-//		}
-//		case 4: {
-//			sQ = "What is your Favourite Food?";
-//		}
-//		case 5: {
-//			sQ = "In what city were you born?";
-//		}
-//		}
 
 		System.out.println("Enter Answer : ");
 		scan.nextLine();
