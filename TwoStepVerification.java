@@ -1,5 +1,3 @@
-package ATM;
-
 public class TwoStepVerification {
 		private String answer;
 		private char qOpt;
